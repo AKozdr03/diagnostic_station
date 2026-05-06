@@ -105,6 +105,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Modules" Type="Folder">
 			<Item Name="Initialization.vi" Type="VI" URL="../Initialization.vi"/>
 			<Item Name="Read_Data.vi" Type="VI" URL="../Read_Data.vi"/>
+			<Item Name="UART_read.vi" Type="VI" URL="../UART_read.vi"/>
 		</Item>
 		<Item Name="Chassis" Type="myRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
