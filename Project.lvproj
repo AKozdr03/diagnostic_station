@@ -3,7 +3,7 @@
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
-		<Property Name="server.tcp.acl" Type="Str">0800000008000000</Property>
+		<Property Name="server.tcp.acl" Type="Str">330000000A0000000100000027000000030000000B0000003137322E32322E31312E3210000000030000000000010000000000</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.port" Type="Int">0</Property>
 		<Property Name="server.tcp.serviceName" Type="Str"></Property>
@@ -25,7 +25,7 @@
 	<Item Name="NI-myRIO-1900-03068a51" Type="RT myRIO">
 		<Property Name="alias.name" Type="Str">NI-myRIO-1900-03068a51</Property>
 		<Property Name="alias.value" Type="Str">172.22.11.2</Property>
-		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,762F;FPGAPersonality,myRIO_FP_Custom;</Property>
+		<Property Name="CCSymbols" Type="Str">OS,Linux;CPU,ARM;DeviceCode,762F;FPGAPersonality,myRIO_FP_Custom;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">762F</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
