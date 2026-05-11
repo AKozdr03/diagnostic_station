@@ -1,6 +1,6 @@
 # README
 
-## Project Overview -- Multilayer Application Development
+## Project Overview -- Building of multi-thread applications
 
 This project was created as part of the **Building of multi-thread applications** course. Its goal is to build a **diagnostic station**
 capable of measuring key physiological parameters of the user. The
