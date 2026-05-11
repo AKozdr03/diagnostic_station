@@ -18,22 +18,22 @@ the hardware requirements of the **myRIO** platform.
 ### Sensors Used and Their Connections:
 
 1.  **Temperature sensor**
-    -   Connected to **myRIO** through an **ESP** module\
+    -   Connected to **myRIO** through an **ESP** module
     -   Wired to **Connector A, PIN 10**
 2.  **Pulse sensor**
-    -   Connected **directly** to myRIO\
+    -   Connected **directly** to myRIO
     -   Wired to **Connector B, AI0**
 3.  **GSR (Galvanic Skin Response) sensor**
-    -   Connected **directly** to myRIO\
-    -   Wired to **Connector B, AO2**
+    -   Connected **directly** to myRIO
+    -   Wired to **Connector B, AI1**
 
 ## Project Goals
 
 The objective of this project was to design and implement a multilayer
 application capable of:
 
--   Acquiring data from multiple sensors\
--   Processing and visualizing the collected measurements\
--   Providing insights into the user's basic physiological parameters\
+-   Acquiring data from multiple sensors
+-   Processing and visualizing the collected measurements
+-   Providing insights into the user's basic physiological parameters
 -   Demonstrating the practical use of multilayer architecture and
     communication between embedded systems
